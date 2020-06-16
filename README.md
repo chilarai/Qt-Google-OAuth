@@ -24,5 +24,6 @@ Contains the button which calls the `grant()` method of Qt and prompts Google au
 
 #### Others
 
-[Sample Google JSON File](client_secret_452291785459-1ldhc2q2ahqfl7sv0mh1veuov740bj5f.apps.googleusercontent.com.json)
-[Google console screenshot](GoogleConsole.png)
+-   [Sample Google JSON File](client_secret_452291785459-1ldhc2q2ahqfl7sv0mh1veuov740bj5f.apps.googleusercontent.com.json)
+
+-   [Google console screenshot](GoogleConsole.png): Remember to put http://127.0.0.1:your_port instead of http://localhost:your_port else this will result in `redirect_uri mismatch error`
