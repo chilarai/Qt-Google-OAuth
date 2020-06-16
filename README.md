@@ -17,3 +17,12 @@ Please read the comments in the files. I have tried to explain all the details o
 #### main.cpp
 
 Initialized the googleauth object
+
+#### main.qml
+
+Contains the button which calls the `grant()` method of Qt and prompts Google auth on the browser
+
+#### Others
+
+[Sample Google JSON File](client_secret_452291785459-1ldhc2q2ahqfl7sv0mh1veuov740bj5f.apps.googleusercontent.com.json)
+[Google console screenshot](GoogleConsole.png)
