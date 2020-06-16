@@ -6,14 +6,14 @@ Feel free to improve the code and post your issues
 
 ## General files
 
-##### GoogleOAuth.pro
+#### GoogleOAuth.pro
 
 Remember to add `networkauth` in the list of Qt modeule dependencies
 
-##### googleauth.h & googleauth.cpp
+#### googleauth.h & googleauth.cpp
 
 Please read the comments in the files. I have tried to explain all the details of the code
 
-##### main.cpp
+#### main.cpp
 
 Initialized the googleauth object
