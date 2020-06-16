@@ -12,7 +12,8 @@ Remember to add `networkauth` in the list of Qt modeule dependencies
 
 #### googleauth.h & googleauth.cpp
 
-Please read the comments in the files. I have tried to explain all the details of the code
+Please read the comments in the files. I have tried to explain all the details of the code.
+Remember to edit the `CLIENT_SECRET`, `CLIENT_ID` & `port_number` (in my case, it is 5476) in googleauth.cpp
 
 #### main.cpp
 
