@@ -1,6 +1,6 @@
 # Qt-Google-OAuth
 
-Sample application to showcase how to use Qt to authenticate Google apps. I have refered part of the code from [Stackoverflow Question](https://stackoverflow.com/questions/48453550/how-to-create-a-login-page-using-qt-oauth) answered by [Xplatforms](https://stackoverflow.com/users/1047746/xplatforms). I will keep the repo updated as Qt and Google introduces more changes.
+Sample application to showcase how to use Qt C++ to authenticate Google apps. I have refered part of the code from [Stackoverflow Question](https://stackoverflow.com/questions/48453550/how-to-create-a-login-page-using-qt-oauth) answered by [Xplatforms](https://stackoverflow.com/users/1047746/xplatforms). I will keep the repo updated as Qt and Google introduces more changes.
 
 Feel free to improve the code and post your issues
 
