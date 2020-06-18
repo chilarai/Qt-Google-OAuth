@@ -8,7 +8,7 @@ Feel free to improve the code and post your issues
 
 #### GoogleOAuth.pro
 
-Remember to add `networkauth` in the list of Qt modeule dependencies
+Remember to add `networkauth` in the list of Qt module dependencies
 ```
 QT += networkauth
 ```
