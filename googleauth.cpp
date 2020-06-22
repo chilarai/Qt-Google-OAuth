@@ -23,8 +23,8 @@ GoogleAuth::GoogleAuth(QObject *parent) : QObject(parent)
 
     this->google->setAuthorizationUrl(QUrl("https://accounts.google.com/o/oauth2/auth")); 
     this->google->setAccessTokenUrl(QUrl("https://oauth2.googleapis.com/token"));
-    this->google->setClientIdentifierSharedKey("MY_SECRET_TOKEN");
     this->google->setClientIdentifier("MY_CLIENT_ID");
+    this->google->setClientIdentifierSharedKey("MY_SECRET_TOKEN");
 
     // In my case, I have hardcoded 5476
     // This is set in Redirect URI in Google Developers Console of the app
