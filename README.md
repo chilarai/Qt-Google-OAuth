@@ -9,7 +9,7 @@ Feel free to improve the code and post your issues
 #### GoogleOAuth.pro
 
 Remember to add `networkauth` in the list of Qt module dependencies
-```
+```sh
 QT += networkauth
 ```
 
@@ -18,7 +18,7 @@ QT += networkauth
 Please read the comments in the files. I have tried to explain all the details of the code.
 Remember to edit the `MY_CLIENT_SECRET`, `MY_CLIENT_ID` & `port_number` (in my case, it is 5476) in googleauth.cpp
 
-```
+```sh
 this->google->setClientIdentifier("MY_CLIENT_ID");
 this->google->setClientIdentifierSharedKey("MY_SECRET_KEY");
 auto replyHandler = new QOAuthHttpServerReplyHandler(5476, this);
